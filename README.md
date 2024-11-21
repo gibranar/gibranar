@@ -1,6 +1,6 @@
 ### Hi there, I'm [Gibran Abyan Rifai](https://gibranar.github.io/my-first-portfolio/) 👋
 
-I completed my PhD in Machine Learning from [Federation University](https://federation.edu.au), Australia. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
+I’m an Informatics Engineering Education student with a strong foundation in programming and problem-solving. Recognized for achievements such as placing in the UNITY #12 competition and passed funding in the Student Creativity Program (PKM) 2024. Proficient in web development and system design, with great communication and collaboration skills to contribute effectively to team projects. Passionate about pursuing a career in technical fields, particularly in programming and web development.
 
 **My Research Interest**:
 - Outlying Aspect Mining
